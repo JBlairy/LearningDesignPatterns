@@ -2,7 +2,7 @@
 
 namespace App\BehavioralPatterns\ChainOfResponsibility\Exemple1;
 
-class DefaultController
+class index
 {
     public function __invoke()
     {

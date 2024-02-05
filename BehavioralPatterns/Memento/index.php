@@ -3,7 +3,7 @@
 namespace App\BehavioralPatterns\Memento;
 
 /** see https://refactoring.guru/design-patterns/memento */
-class DefaultController
+class index
 {
     public function __invoke()
     {

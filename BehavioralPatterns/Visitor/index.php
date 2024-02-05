@@ -3,7 +3,7 @@
 namespace App\BehavioralPatterns\Visitor;
 
 /** see https://refactoring.guru/design-patterns/visitor */
-class DefaultController
+class index
 {
     public function __invoke()
     {

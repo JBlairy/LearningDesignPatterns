@@ -3,7 +3,7 @@
 namespace App\BehavioralPatterns\Mediator;
 
 /** see https://refactoring.guru/design-patterns/mediator */
-class DefaultController
+class index
 {
     public function __invoke()
     {

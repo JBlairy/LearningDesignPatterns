@@ -3,7 +3,7 @@
 namespace App\BehavioralPatterns\ChainOfResponsibility\Exemple2;
 
 /** see https://refactoring.guru/design-patterns/chain-of-responsibility */
-class DefaultController
+class index
 {
     public function __invoke()
     {

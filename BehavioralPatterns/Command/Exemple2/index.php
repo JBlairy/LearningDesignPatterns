@@ -3,7 +3,7 @@
 namespace App\BehavioralPatterns\Command\Exemple2;
 
 /** see https://refactoring.guru/design-patterns/command */
-class DefaultController
+class index
 {
     public function __invoke()
     {

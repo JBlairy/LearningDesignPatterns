@@ -2,7 +2,7 @@
 
 namespace App\BehavioralPatterns\Command\Exemple1;
 
-class DefaultController
+class index
 {
     public function __invoke()
     {

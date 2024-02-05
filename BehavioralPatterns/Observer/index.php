@@ -3,7 +3,7 @@
 namespace App\BehavioralPatterns\Observer;
 
 /** see https://refactoring.guru/design-patterns/observer */
-class DefaultController
+class index
 {
     public function __invoke()
     {

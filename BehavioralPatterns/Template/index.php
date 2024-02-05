@@ -3,7 +3,7 @@
 namespace App\BehavioralPatterns\Template;
 
 /** see https://refactoring.guru/design-patterns/template-method */
-class DefaultController
+class index
 {
     public function __invoke()
     {

@@ -3,7 +3,7 @@
 namespace App\BehavioralPatterns\Strategy;
 
 /** see https://refactoring.guru/design-patterns/strategy */
-class DefaultController
+class index
 {
     public function __invoke()
     {

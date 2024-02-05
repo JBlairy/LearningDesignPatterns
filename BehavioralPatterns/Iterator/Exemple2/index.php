@@ -3,7 +3,7 @@
 namespace App\BehavioralPatterns\Iterator\Exemple2;
 
 /** see https://refactoring.guru/design-patterns/iterator */
-class DefaultController
+class index
 {
     public function __invoke()
     {
